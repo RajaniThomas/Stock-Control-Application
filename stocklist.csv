@@ -1,0 +1,41 @@
+Item Code,Item Description,Current Count,On Order
+A0040,Petrol Station,9,Yes
+A0039,Traffic Lights,5,Yes
+A0038,Shop,7,No
+A0037,Building (tall),4,No
+A0036,Building (medium),3,No
+A0035,Building (small),4,No
+A0034,Car,12,No
+A0033,House,9,No
+A0032,Animals,3,Yes
+A0031,Tractor,6,Yes
+A0030,Barn,12,Yes
+A0029,Fencing,22,Yes
+A0028,Farmhouse,6,Yes
+A0027,Windmill,5,No
+A0026,Building Blocks (200),8,No
+A0025,Building Blocks (100),2,Yes
+A0024,Building Blocks (50),5,Yes
+A0023,Building Blocks (40),16,No
+A0022,Building Blocks (30),13,No
+A0021,Building Blocks (20),15,No
+A0020,Train with 5 Carriage,2,No
+A0019,Train with 4 Carriage,5,No
+A0018,Train with 3 Carriage,4,Yes
+A0017,Train with 2 Carriage,5,Yes
+A0016,Train with 1 Carriage,10,No
+A0015,Train with 0 Carriage,12,No
+A0014,Cart with Blocks (200),4,No
+A0013,Cart with Blocks (100),5,No
+A0012,Cart with Blocks (50),0,Yes
+A0011,Pupp(lying),1,Yes
+A0010,Puppy(jump),2,Yes
+A0009,Puppy(stand),2,No
+A0008,Puppy(crouch),3,No
+A0007,Clown,5,No
+A0006,Teddy Bear,2,Yes
+A0005,Bear on Wheels,7,No
+A0004,Seal on Wheels,3,No
+A0003,Dog on Wheels,0,Yes
+A0002,Elephant on Wheels,2,No
+A0001,Horse on Wheels,5,No
