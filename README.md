@@ -1,7 +1,7 @@
 # Stock-Control-Application
 Desktop Application using WPF
 
-The Stock Control Application is a user interface that is used to automate a stock control function. It has a simple, easy to use 
+The Stock Control Application is a user interface that is used to automate a stock control function. It has an easy to use 
 Graphical User Interface that reads contents from a comma separated text file and displays its contents on the screen, in the form of a 
 table. Once, the csv file is loaded in the application, the file is also converted into a valid XML file. The application also has the option 
 to view the XML file in two different styles in a web browser. 
