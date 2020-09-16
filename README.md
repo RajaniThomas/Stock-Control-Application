@@ -14,7 +14,7 @@ A user of this application can:
 
 *Before starting the application, place the stocklist.csv file in the c:\StockFile directory 
 
-Project Documentation : 
-https://drive.google.com/drive/folders/1XnPxz5A9X79iAoYIxrI9cWlD2KAkr4f_?usp=sharing
+Check out the User Documenation here : https://drive.google.com/file/d/1o1RVmWY8DD-6wl-SiTdJh7Ul6RRYUj6O/view?usp=sharing
+
 
 
