@@ -14,9 +14,9 @@ A user of this application can:
 
 *Before starting the application, place the stocklist.csv, XSLT_Format_1.xslt and XSLT_Format_2.xslt files in the c:\StockFile directory 
 
-Check out the User Documenation here : https://drive.google.com/file/d/1o1RVmWY8DD-6wl-SiTdJh7Ul6RRYUj6O/view?usp=sharing
+Check out the User Documentation here : https://drive.google.com/file/d/1o1RVmWY8DD-6wl-SiTdJh7Ul6RRYUj6O/view?usp=sharing
 
-Developer Documenation : https://drive.google.com/file/d/1GHVFTXSkIZibqZusWLHLRMn8WG1-RBBJ/view?usp=sharing
+Developer Documentation : https://drive.google.com/file/d/1GHVFTXSkIZibqZusWLHLRMn8WG1-RBBJ/view?usp=sharing
 
 
 
