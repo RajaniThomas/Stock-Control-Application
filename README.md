@@ -12,7 +12,7 @@ A user of this application can:
 •	View columns sorted by ‘Item code’, ‘Current Count’ or ‘On Order’.
 •	Select one of the two formats in which the XML file can be viewed in a web browser.
 
-*Before starting the application, place the stocklist.csv file in the c:\StockFile directory 
+*Before starting the application, place the stocklist.csv, XSLT_Format_1.xslt and XSLT_Format_2.xslt files in the c:\StockFile directory 
 
 Check out the User Documenation here : https://drive.google.com/file/d/1o1RVmWY8DD-6wl-SiTdJh7Ul6RRYUj6O/view?usp=sharing
 
